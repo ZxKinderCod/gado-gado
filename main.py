@@ -23,18 +23,7 @@ silahkan pilih: '''))
 
 
 def main():
-    # user_option=options()
-    # if user_option == 1:
-    #     screen_welcome("Selamat datang di ₿itcoin Game")
-    #     from games import bitcoin
-    #     bitcoin.start()
-    # elif user_option == 2:
-    #     import kios
-    #     kios.start()
-    # else:
-    #     print("hanya boleh pilih menu yang tersedia")
     options()  #jgn di hapus
-    # screen_exit()
 
 
 
